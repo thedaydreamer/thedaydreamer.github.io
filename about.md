@@ -4,7 +4,7 @@ permalink: about/
 profile: true
 ---
 
-About Me? Huh. I have made multiple attempt to update this page. Everytime during such session, I stop tapping the keyboard after a few minutes, lean back on my chair and get drowned in the deep ocean of existensial questions. And it always end up with lighting a cigratte and pointless gazing at sky in the balcony.
+About Me? Huh. I have made multiple attempt to update this page. Everytime during such session, I stop tapping the keyboard after a few minutes, lean back on my chair and get drowned in the deep ocean of existensial questions. And it always end up with lighting a cigratte and pointless gazing at the horizon in the balcony.
 
 So anyways, this time I thought I would just stick to just worldly common facts with which most people identify themselves.
 
