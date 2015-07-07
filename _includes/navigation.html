@@ -9,5 +9,9 @@
         {% endif %}
     {% endif %}
 
+    {% if page.url != "/contact/" %}
+            <a href='{{ site.baseurl }}about'>Contact </a>
+    {% endif %}
+
     <a class="cta" href="{{ site.baseurl }}feed.xml">Subscribe</a>
 </nav>
