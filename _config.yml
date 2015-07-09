@@ -18,7 +18,7 @@ url:            'http://www.amitgupta.me'
 author:         'Amit Gupta'
 authorTwitter:  'thedaydreamer9'
 
-permalink:       /:year/:title/
+permalink:       /:title/
 
 defaults:
     -
